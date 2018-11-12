@@ -13,4 +13,4 @@ There's a lot of Bugs, A LOT.
  * ADB
  * Proxy
 
-<img align="left" width="159" height="345" src="https://i.imgur.com/msckbJV.png">
+<img align="left" width="832" height="427" src="https://i.imgur.com/msckbJV.png">
