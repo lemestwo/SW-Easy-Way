@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="D:\Visual Studio Projects\SW-Easy-Way\packages\Managed.Adb.2.0.131.13916\lib\net45\Managed.Adb.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Visual Studio Projects\SW-Easy-Way\packages\FryProxy.1.1.18\lib\net40\FryProxy.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Visual Studio Projects\SW-Easy-Way\packages\PropertyChanged.Fody.2.1.4\lib\netstandard1.0\PropertyChanged.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/Coords/@EntryValue">(Doc Ln 17 Col 57)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/FileId/@EntryValue">9A7BECF9-12AF-43A2-A1F7-A34C2910C7D2/d:Interceptor/f:Proxy.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark9/Owner/@EntryValue">NumberedBookmarkManager</s:String></wpf:ResourceDictionary>
