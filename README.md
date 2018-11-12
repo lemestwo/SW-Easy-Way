@@ -1,14 +1,14 @@
 # SW-Easy-Way
 Summoner's War Bot
 
-There's a lot of Bugs, A LOT.
+There's a lot of Bugs, **A LOT**.
 
-##CAN DO:
+## CAN DO:
  * Cairos Dungeon
  * World Boss
  * Rivals
 
-##NICE THINGS:
+## NICE THINGS:
  * Smart Sell Runes
  * ADB
  * Proxy
